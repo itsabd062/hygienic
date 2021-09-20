@@ -1312,7 +1312,7 @@ border-radius: 10px; }
     /*--- btn-5 ---*/
     .btn-5 span {
       color: rgb(28, 31, 30);
-      border: 2px solid rgb(249, 211, 27);
+      border: 2px solid #00c2cb;
       transition: 0.2s;
     }
     .btn-5 span:hover {

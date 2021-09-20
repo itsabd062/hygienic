@@ -126,9 +126,6 @@ a {
 .navbar-area{
   background-color: transparent;
 }
-.navbar-nav .nav-link{
-  color: var(--black)!important;
-}
 .navbar-toggler{
   outline: none!important;
 } 
@@ -890,7 +887,8 @@ border-radius: 10px; }
 
 .st-call.st-style1 {
   display: flex;
-  align-items: center; }
+  align-items: center;
+justify-content: center;}
   .st-call.st-style1 .st-call-number {
     font-size: 18px;
     font-weight: 700;
@@ -1240,15 +1238,23 @@ border-radius: 10px; }
       width: 370px;
     }
     }
-  .nav-link:active{
-    background-color:transparent;
-  }
-.nav-link:hover{
-  background-color: #03bac4;
-}
+
   .nav-tabs .nav-link.active {
-    color: black!important;
-    background-color:#00c2cb!important;
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   }
   .st-price-list li {
     margin-left: 20px;
